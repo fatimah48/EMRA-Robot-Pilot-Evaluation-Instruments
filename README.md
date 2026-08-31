@@ -1,13 +1,8 @@
-# EMRA Robot Pilot Evaluation Instruments
+# EMRA Pilot Evaluation Instruments
 
 This repository presents the complete instruments used in the EMRA autism-center pilot.
 
-The evaluation package consists of:
-
-- **F1:** Child Session Observation Form
-- **F2:** Child Preference Form
-- **F3:** Educator Post-Pilot Questionnaire
-- **Automatically Logged Fields**
+The evaluation package consists of the **Child Session Observation Form (F1)**, the **Child Preference Form (F2)**, the **Educator Post-Pilot Questionnaire (F3)**, and the automatically recorded EMRA system fields.
 
 ---
 
@@ -17,17 +12,10 @@ This form is completed by the observer during and immediately after the session.
 
 ## Session Information
 
-| Child ID | Session Number |
-|---|---|
-|  |  |
-
-| Language |
-|---|
-| ☐ Arabic  ☐ English  ☐ Auto |
-
-| Start Time | End Time |
-|---|---|
-|  |  |
+| Child ID |  | Session Number |  |
+|---|---|---|---|
+| **Language** | ☐ Arabic | ☐ English | ☐ Auto |
+| **Start Time** |  | **End Time** |  |
 
 ## Part 1: Educational Activities
 
@@ -56,9 +44,7 @@ This form is completed by the observer during and immediately after the session.
 | Reading |  |  |  |  |  |
 | Letters |  |  |  |  |  |
 
-**Prompt Level:** 0–4  
-**Completed:** Yes / Partial / No  
-**Frequency:** Never / Sometimes / Often / Very often
+**Prompt Level:** 0–4  **Completed:** Yes / Partial / No  **Frequency:** Never / Sometimes / Often / Very often
 
 ## Part 2: Talk Session
 
@@ -73,15 +59,13 @@ This part is completed only when a Talk session is used. It is skipped when the 
 | Child looked at EMRA’s face screen. | ○ Never<br>○ Rarely<br>○ Sometimes<br>○ Often |  |
 | When a physical cue occurred while the child’s attention was away, did the child redirect attention toward EMRA or the activity? | ○ Yes<br>○ No<br>○ N/A |  |
 | Which gesture affected the child more? | ☐ Nod<br>☐ Shake<br>☐ Handshake<br>☐ Wave<br>☐ Hug<br>☐ Clap |  |
-| Child showed the robot an object or drawing. | ○ Yes<br>○ No |  |
+| Child showed the robot an object or drawing. | ○ Yes ○ No |  |
 | Adult had to explain or repeat what EMRA said because the child did not understand or respond to EMRA directly. | ○ Never<br>○ Rarely<br>○ Sometimes<br>○ Often |  |
 | EMRA replied in the wrong language. | ○ Never<br>○ Rarely<br>○ Sometimes<br>○ Often |  |
 
 ## Part 3: Gesture-by-Gesture Response
 
-For each gesture performed by EMRA, the observer records the child’s observable response. Gestures that do not occur during the session are left blank.
-
-The system automatically records which gesture was performed and why it was selected.
+For each gesture performed by EMRA, the observer records the child’s observable response. Gestures that do not occur during the session are left blank. The system automatically records which gesture was performed and why it was selected.
 
 ### Child-Response Codes
 
@@ -109,8 +93,6 @@ The system automatically records which gesture was performed and why it was sele
 > A single gesture may produce more than one response code during a session. All observed response codes are recorded.
 
 ## Part 4: Session Global Ratings
-
-### Global Session Ratings
 
 | Measure | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
@@ -145,9 +127,9 @@ The Child Preference Form is completed immediately after each session with educa
 
 ## Session Information
 
-| Child ID | Session Number | Date |
-|---|---|---|
-|  |  |  |
+| Child ID |  | Session Number |  |
+|---|---|---|---|
+| **Date** |  |  |  |
 
 ## Child Pictorial Preference Items
 
@@ -155,9 +137,8 @@ The Child Preference Form is completed immediately after each session with educa
 
 | Question | Happy | Neutral | Sad |
 |---|:---:|:---:|:---:|
-| **Face** | <img src="figures/smiley_happy.png" width="100" alt="Happy face"> | <img src="figures/smiley_neutral.png" width="100" alt="Neutral face"> | <img src="figures/smiley_sad.png" width="100" alt="Sad face"> |
-| **Q1. How was playing with EMRA today?** | ○ | ○ | ○ |
-| **Q2. How was talking with EMRA today?**<br>Mark N/A if no Talk session was used. | ○ | ○ | ○ |
+| **Q1. How was playing with EMRA today?** | <img src="figures/smiley_happy.png" width="90" alt="Happy face"> | <img src="figures/smiley_neutral.png" width="90" alt="Neutral face"> | <img src="figures/smiley_sad.png" width="90" alt="Sad face"> |
+| **Q2. How was talking with EMRA today?**<br>Mark N/A if no Talk session was used. | <img src="figures/smiley_happy.png" width="90" alt="Happy face"> | <img src="figures/smiley_neutral.png" width="90" alt="Neutral face"> | <img src="figures/smiley_sad.png" width="90" alt="Sad face"> |
 
 ## Willingness to Interact With EMRA Again
 
@@ -182,15 +163,7 @@ This questionnaire is completed once by the educator at the end of the pilot.
 | Language(s) you used EMRA in | ○ Arabic only<br>○ Mostly Arabic<br>○ English only<br>○ Mostly English<br>○ About equal Arabic and English |
 | Prior experience with educational technology or robots | ○ None<br>○ Some<br>○ Extensive |
 
-## Rating Scale
-
-| Score | Meaning |
-|:---:|---|
-| 1 | Strongly disagree |
-| 2 | Disagree |
-| 3 | Neutral |
-| 4 | Agree |
-| 5 | Strongly agree |
+**Rating scale:** 1 = Strongly disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly agree.
 
 ## Section A: Usefulness and Educational Value
 
@@ -281,5 +254,14 @@ The EMRA system implementation, educational activities, and interfaces are avail
 
 [EMRA Educational Robot](https://github.com/fatimah48/EMRA_Educational-Robot-)
 
+# Research Context
+
+These instruments were developed for the following research project:
+
+> **Design and Evaluation of a Multimodal, Emotion-Aware and Embodied Educational Robot for Children with Autism Spectrum Disorder**
+
+King Fahd University of Petroleum and Minerals (KFUPM).
+
+# Citation
 
 If you use or adapt these evaluation instruments, please cite the associated EMRA research publication or thesis. Complete citation information will be added after publication.
