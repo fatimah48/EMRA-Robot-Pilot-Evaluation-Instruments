@@ -148,40 +148,44 @@ The Child Preference Form is completed immediately after each session with educa
 
 <table>
   <thead>
-    <tr bgcolor="#ffffff">
+    <tr>
       <th width="48%">Question</th>
       <th width="17%">Happy</th>
       <th width="17%">Neutral</th>
       <th width="17%">Sad</th>
     </tr>
   </thead>
+
   <tbody>
-    <tr bgcolor="#ffffff">
-      <td bgcolor="#ffffff">
+    <tr>
+      <td>
         <strong>Q1. How was playing with EMRA today?</strong>
       </td>
-      <td align="center" bgcolor="#ffffff">
+      <td align="center">
         <img src="figures/smiley_happy.png" width="90" alt="Happy face">
       </td>
-      <td align="center" bgcolor="#ffffff">
+      <td align="center">
         <img src="figures/smiley_neutral.png" width="90" alt="Neutral face">
       </td>
-      <td align="center" bgcolor="#ffffff">
+      <td align="center">
         <img src="figures/smiley_sad.png" width="90" alt="Sad face">
       </td>
     </tr>
-    <tr bgcolor="#ffffff">
-      <td bgcolor="#ffffff">
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>
         <strong>Q2. How was talking with EMRA today?</strong><br>
         Mark N/A if no Talk session was used.
       </td>
-      <td align="center" bgcolor="#ffffff">
+      <td align="center">
         <img src="figures/smiley_happy.png" width="90" alt="Happy face">
       </td>
-      <td align="center" bgcolor="#ffffff">
+      <td align="center">
         <img src="figures/smiley_neutral.png" width="90" alt="Neutral face">
       </td>
-      <td align="center" bgcolor="#ffffff">
+      <td align="center">
         <img src="figures/smiley_sad.png" width="90" alt="Sad face">
       </td>
     </tr>
