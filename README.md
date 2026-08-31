@@ -281,14 +281,5 @@ The EMRA system implementation, educational activities, and interfaces are avail
 
 [EMRA Educational Robot](https://github.com/fatimah48/EMRA_Educational-Robot-)
 
-# Research Context
-
-These instruments were developed for the following research project:
-
-> **Design and Evaluation of a Multimodal, Emotion-Aware and Embodied Educational Robot for Children with Autism Spectrum Disorder**
-
-King Fahd University of Petroleum and Minerals (KFUPM).
-
-# Citation
 
 If you use or adapt these evaluation instruments, please cite the associated EMRA research publication or thesis. Complete citation information will be added after publication.
