@@ -32,17 +32,17 @@ This form is completed by the observer during and immediately after the session.
 
 ### Educational Activity Record
 
-| Activity | Prompt Level | Completed | Frequency of Loss of Attention | Play Again | Notes |
-|---|:---:|:---:|:---:|:---:|---|
-| Body Parts |  |  |  |  |  |
-| Puzzle |  |  |  |  |  |
-| LEGO |  |  |  |  |  |
-| Painting |  |  |  |  |  |
-| Colors |  |  |  |  |  |
-| Numbers |  |  |  |  |  |
-| Writing |  |  |  |  |  |
-| Reading |  |  |  |  |  |
-| Letters |  |  |  |  |  |
+| Activity | Prompt Level | Completed | Frequency of Loss of Attention | Notes |
+|---|:---:|:---:|:---:|---|
+| Body Parts |  |  |  |  |
+| Puzzle |  |  |  |  |
+| LEGO |  |  |  |  |
+| Painting |  |  |  |  |
+| Colors |  |  |  |  |
+| Numbers |  |  |  |  |
+| Writing |  |  |  |  |
+| Reading |  |  |  |  |
+| Letters |  |  |  |  | 
 
 **Prompt Level:** 0–4  **Completed:** Yes / Partial / No  **Frequency:** Never / Sometimes / Often / Very often
 
