@@ -331,6 +331,3 @@ These instruments were developed for the following research project:
 
 King Fahd University of Petroleum and Minerals (KFUPM).
 
-# Citation
-
-If you use or adapt these evaluation instruments, please cite the associated EMRA research publication or thesis. Complete citation information will be added after publication.
